@@ -5,7 +5,10 @@ a plan for reading key and classic papers in my area(3d DL and point cloud proce
 ### Oct,19
 DL
 * [Xception](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
-* [Network In Network](https://arxiv.org/abs/1312.4400)
+* [Network In Network](https://arxiv.org/abs/1312.4400), [network in network review](https://github.com/PointCloudYC/read-papers-consistently/nin.md)
+
+
+
 * [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
