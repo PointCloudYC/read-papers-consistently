@@ -1,12 +1,31 @@
-# read-papers-consistently
-a plan for reading key and classic papers in my area(3d DL and point cloud processing)
+# Read papers consistently
+
+a curated list of to-read papers on deep learning.
+
+**Why doing things consistently is a a good habit?**
+
+- simple answer is **accomplish anything you want.**
+- For more, you can check the below inspiring articles. 
+  - [5 Reasons Why Consistency is an Important Habit | Neel Raman](https://neelraman.com/5-reasons-why-consistency-is-an-important-habit/), 
+  - [Why You MUST Do The Little Things Consistently - David Horsager](https://davidhorsager.com/why-you-must-do-the-little-things-consistently/),
 
 ## Paperlist
-### Oct,19
+### review papers
+
+
+### classic foundational papers
+
+
+### advanced papers
+
+### segmentation
+
+### detection
+
+### others
 DL
 * [Xception](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
 * [Network In Network](https://arxiv.org/abs/1312.4400), [network in network review](https://github.com/PointCloudYC/read-papers-consistently/nin.md)
-
 
 
 * [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
