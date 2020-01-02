@@ -11,13 +11,13 @@ a curated list of to-read papers on deep learning.
 
 ## review papers
 
-- Domingos, “A Few Useful Things to Know about Machine Learning” 
 - Schmidhuber, “Deep Learning in Neural Networks” 
-- Jordan and Mitchell, “Machine Learning” 
-- Hamilton, Ying, and Leskovec, “Representation Learning on Graphs” 
-Bengio, Courville, and Vincent, “Representation Learning” 
+- Domingos, “A Few Useful Things to Know about Machine Learning” 
 - Hinton, “[Top]Reducing the Dimensionality of Data with Neural Networks” 
 - Halevy, Norvig, and Pereira, “[Top]The Unreasonable Effectiveness of Data”
+- Bengio, Courville, and Vincent, “Representation Learning” 
+- Jordan and Mitchell, “Machine Learning” 
+- Hamilton, Ying, and Leskovec, “Representation Learning on Graphs” 
 
 ## classic foundational papers
 

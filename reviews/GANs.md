@@ -21,4 +21,3 @@
 >
 
 * [GAN — Some cool applications of GANs. - Jonathan Hui - Medium](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
->
