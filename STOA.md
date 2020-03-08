@@ -21,7 +21,8 @@
 
 ### refs
 * [三巨头共聚AAAI：Capsule没有错，LeCun看好自监督，Bengio谈注意力](https://mp.weixin.qq.com/s/nDDAx6AB9SYgQ9cVevjZvA)
-
+* [Self-supervised learning and computer vision · fast.ai](https://www.fast.ai/2020/01/13/self_supervised/)
+* [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 
 ## AUtoDL
 
