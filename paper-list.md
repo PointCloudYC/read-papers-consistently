@@ -89,6 +89,7 @@ a curated list of to-read papers on deep learning.
 
 ## Group papers
 ### MA Jun
+all the paper summaries are in [summaries](https://github.com/PointCloudYC/read-papers-consistently/tree/master/summaries/MaJun/summaries.md)
 
 - Ma, Jun, and Jack C. P. Cheng. “Identifying the Influential Features on the Regional Energy Use Intensity of Residential Buildings Based on Random Forests.” Applied Energy 183 (December 1, 2016)
 
