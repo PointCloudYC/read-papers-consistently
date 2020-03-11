@@ -86,3 +86,45 @@ a curated list of to-read papers on deep learning.
 ### Other(registration,etc.)
 * [learning_to_sample: A learned sampling approach for point clouds (CVPR 2019)](https://github.com/orendv/learning_to_sample), FPS vs the learning_to_sample
 * [Super4PCS: Efficient Global Point-cloud registration](https://github.com/nmellado/Super4PCS)
+
+## Group papers
+### MA Jun
+
+- Ma, Jun, and Jack C. P. Cheng. “Identifying the Influential Features on the Regional Energy Use Intensity of Residential Buildings Based on Random Forests.” Applied Energy 183 (December 1, 2016)
+
+- Ma, Jun, and Jack C. P. Cheng.“Estimation of the Building Energy Use Intensity in the Urban Scale by Integrating GIS and Big Data Technology.” Applied Energy 183 (December 1, 2016)
+
+- Ma, Jun, Jack C.P. Cheng, Changqing Lin, Yi Tan, and Jingcheng Zhang. “Improving Air Quality Prediction Accuracy at Larger Temporal Resolutions Using Deep Learning and Transfer Learning Techniques.” Atmospheric Environment 214 (October 2019)
+
+- Ma, Jun, Jack C. P. Cheng, Feifeng Jiang, Weiwei Chen, and Jingcheng Zhang. “2-Analyzing Driving Factors of Land Values in Urban Scale Based on Big Data and Non-Linear Machine Learning Techniques.” Land Use Policy 94 (May 1, 2020)
+
+- Ma, Jun, Jack C. P. Cheng, Feifeng Jiang, Vincent J. L. Gan, Mingzhu Wang, and Chong Zhai. “Real-Time Detection of Wildfire Risk Caused by Powerline Vegetation Faults Using Advanced Machine Learning Techniques.” Advanced Engineering Informatics 44 (April 1, 2020)
+
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Feifeng Jiang, and Zhiwei Wan. “1-A Temporal-Spatial Interpolation and Extrapolation Method Based on Geographic Long Short-Term Memory Neural Network for PM2.5.” Journal of Cleaner Production 237 (November 10, 2019)
+
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Feifeng Jiang, and Zherui Xu. “Soft Detection of 5-Day BOD with Sparse Matrix in City Harbor Water Using Deep Learning Techniques.” Water Research 170 (March 1, 2020): 115350. https://doi.org/10.1016/j.watres.2019.115350.
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Yi Tan, Vincent J. L. Gan, and Jingcheng Zhang. “1-Analyzing the Leading Causes of Traffic Fatalities Using XGBoost and Grid-Based Analysis: A City Management Perspective.” IEEE Access 7 (2019)
+
+- Ma, Jun, Yuexiong Ding, Vincent J. L. Gan, Changqing Lin, and Zhiwei Wan. “1-Spatiotemporal Prediction of PM2.5 Concentrations at Different Time Granularities Using IDW-BLSTM.” IEEE Access 7 (2019)
+
+- Ma, Jun, Zheng Li, Jack C. P. Cheng, Yuexiong Ding, Changqing Lin, and Zherui Xu. “Air Quality Prediction at New Stations Using Spatially Transferred Bi-Directional Long Short-Term Memory Network.” Science of The Total Environment 705 (February 25, 2020)
+
+- Ma, Jun, Jack C. P. Cheng, Feifeng Jiang, Weiwei Chen, and Jingcheng Zhang. “2-Analyzing Driving Factors of Land Values in Urban Scale Based on Big Data and Non-Linear Machine Learning Techniques.” Land Use Policy 94 (May 1, 2020)
+
+- Ma, Jun, Jack C. P. Cheng, Feifeng Jiang, Vincent J. L. Gan, Mingzhu Wang, and Chong Zhai. “Real-Time Detection of Wildfire Risk Caused by Powerline Vegetation Faults Using Advanced Machine Learning Techniques.” Advanced Engineering Informatics 44 (April 1, 2020)
+
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Feifeng Jiang, and Zhiwei Wan. “1-A Temporal-Spatial Interpolation and Extrapolation Method Based on Geographic Long Short-Term Memory Neural Network for PM2.5.” Journal of Cleaner Production 237 (November 10, 2019)
+
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Feifeng Jiang, and Zherui Xu. “Soft Detection of 5-Day BOD with Sparse Matrix in City Harbor Water Using Deep Learning Techniques.” Water Research 170 (March 1, 2020)
+
+- Ma, Jun, Yuexiong Ding, Jack C. P. Cheng, Yi Tan, Vincent J. L. Gan, and Jingcheng Zhang. “1-Analyzing the Leading Causes of Traffic Fatalities Using XGBoost and Grid-Based Analysis: A City Management Perspective.” IEEE Access 7 (2019)
+
+- Ma, Jun, Yuexiong Ding, Vincent J. L. Gan, Changqing Lin, and Zhiwei Wan. “1-Spatiotemporal Prediction of PM2.5 Concentrations at Different Time Granularities Using IDW-BLSTM.” IEEE Access 7 (2019)
+
+- Ma, Jun, Zheng Li, Jack C. P. Cheng, Yuexiong Ding, Changqing Lin, and Zherui Xu. “Air Quality Prediction at New Stations Using Spatially Transferred Bi-Directional Long Short-Term Memory Network.” Science of The Total Environment 705 (February 25, 2020)
+
+### WANG Qian
+
+
+### Minkoo Kim
+
