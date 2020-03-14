@@ -15,6 +15,14 @@ TODO
 ## Papers
 
 ### Papers Read in Mar, 2020
+
+#### [20-03-14] [paper03]
+Self-Supervised Structure Learning for Crack Detection Based on Cycle-Consistent Generative Adversarial Networks [summaries](https://github.com/PointCloudYC/read-papers-consistently/blob/master/summaries/Self-Supervised Structure Learning for Crack Detection Based on CycleGANs)
+
+*Zhang Kaige, Zhang Yingtao, and Cheng H. D.*
+
+`Jan, 2020 [GANs, CycleGANs, crack detection, self-supervised learning]`
+
 #### [20-03-11] [paper02]
 Identifying the Influential Features on the Regional Energy Use Intensity of Residential Buildings Based on Random Forests [summaries](https://github.com/PointCloudYC/read-papers-consistently/blob/master/summaries/MAJun/summaries.md#identifying-the-influential-features-on-the-regional-energy-use-intensity-of-residential-buildings-based-on-random-forests-2016)
 
